@@ -1,0 +1,20 @@
+{
+  "name": "bq-cache-example",
+  "version": "1.0.0",
+  "description": "Minimal example showing unexpected cached query",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tactileentertainment/bq-cache-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tactileentertainment/bq-cache-example/issues"
+  },
+  "homepage": "https://github.com/tactileentertainment/bq-cache-example#readme",
+  "dependencies": {
+    "@google-cloud/bigquery": "6.2.0"
+  }
+}
